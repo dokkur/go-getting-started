@@ -7,7 +7,7 @@ This application supports the [Getting Started with Go on Dokkur](https://dokkur
 
 ## Deploying to Dokkur
 
-[Deploy to Dokkur](https://heroku.com/deploy)
+[Deploy to Dokkur](https://dokkur.com)
 
 
 ## Documentation
